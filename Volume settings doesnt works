@@ -1,0 +1,19 @@
+Volume settings doesnt works.
+
+Minor
+
+Xiaomi remdmi note 4
+Android 7.0
+
+Steps to reproduce:
+
+1. Open the MagicPuzzleTest app.
+2. Click the volume settings.
+3. Choose the variants.
+
+Expected result: Volume settings changes.
+
+Actual result: Volume settings doesnt works.
+
+Attachments:
+https://drive.google.com/file/d/1qCMxcBbm8NjS1YsuAYxYaqyiIq8QtkPU/view?usp=sharing
