@@ -1,0 +1,21 @@
+Pop-up doesn't respond to touch.
+
+Blocker
+
+Xiaomi remdmi note 4
+Android 7.0
+
+Reproduced irregularly
+
+Steps to reproduce:
+
+1. Open the MagicPuzzleTest app.
+2. A rating message appears.
+3. Pop-up doesn't respond to touch.
+
+Expected Result: The pop-up is responsive to touch.
+
+Actual result: Pop-up doesn't respond to touch. Requires a restart of the game. 
+
+Attachments:
+https://drive.google.com/file/d/1oKNMoS8HyBjXU2EVoByK5QicPFt7GB3_/view?usp=sharing
