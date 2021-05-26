@@ -1,0 +1,22 @@
+Game gets stuck.
+
+Critical
+
+Xiaomi remdmi note 4
+Android 7.0
+
+Steps to reproduce:
+
+1. Open the MagicPuzzleTest app.
+2. Start the scenario game.
+4. Reach the seventh flashlight.
+5. Complete the task.
+
+Expected result:
+The hero goes to the next flashlight and keep playing to reach the finish line.
+
+Actual result:
+The hero doesn't go further on the map and gets stuck in the game on seventh flashlight. 
+
+Attachments:
+https://drive.google.com/file/d/1xKU9NxV3zeYe6IEz4PIahXCikuNZ9vZ2/view?usp=sharing
