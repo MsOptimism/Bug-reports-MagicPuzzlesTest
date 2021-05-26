@@ -1,0 +1,30 @@
+Fatal error
+
+Blocker
+
+Xiaomi remdmi note 4
+Android 7.0
+
+Reproduced irregularly
+
+Steps to reproduce:
+
+1. Open the MagicPuzzleTest app.
+2. Start the game.
+3. Play various locations.
+4. An error message appears.
+
+Expected Result: The application works.
+Actual result: The "Fatal error" appears.
+
+Attachments:
+
+Video: https://drive.google.com/file/d/1AhvHzlUHkQEExFrXfvdyO6_P5bVKC_7B/view
+
+Logs: 
+2021-01-20 21:51:09.748 1275-1388/? E/GML:  <  FATAL ERROR in action number 1 of  Step Event0 for object obj_controler:  MEMORY OVERFLOW at gml_Object_obj_controler_Step_0  > stack frame is gml_Object_obj_controler_Step_0 (line -1) 
+2021-01-20 21:51:14.472 8863-3708/? E/memtrack: Couldn't load memtrack module
+2021-01-20 21:51:18.964 30817-30882/? E/PlayCommon: [506] awwx.h(133): Failed to connect to server for server timestamp: java.net.UnknownHostException: Unable to resolve host "play.googleapis.com": No address associated with hostname
+2021-01-20 21:51:18.968 30817-30882/? E/PlayCommon: [506] awwx.h(172): Failed to connect to server for log upload.
+2021-01-20 21:51:34.996 1275-1638/? E/FirebaseCrash: Error sending crash report: IOException while sending a crash report
+2021-01-20 21:51:50.839 607-607/? E/libc: Access denied finding property "persist.sys.display_debug"
