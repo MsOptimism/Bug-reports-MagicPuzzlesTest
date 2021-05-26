@@ -1,0 +1,24 @@
+Game closes
+
+Blocker
+
+Xiaomi remdmi note 4
+Android 7.0
+
+Reproduced irregularly
+
+Steps to reproduce:
+
+1. Open the MagicPuzzleTest app.
+2. Start the game.
+3. Complete the scenario game.
+4. See the final video.
+5. Click the map icon on the center.
+
+
+Expected Result: The map icon returns to map/menu.
+
+Actual result: Game clothes.
+
+Attachments:
+https://drive.google.com/file/d/1wP9JGHNMiid6VLeQUCfChIZbjtG_FKaY/view?usp=sharing
